@@ -1,0 +1,31 @@
+_repo: Histoire-des-Plus-C-l-bres-Amateurs--trangersde-leurs-relations-avec-les-artistes_26211
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumesnil, Antoine Jules
+    alias: Dumesnil, Jules
+    birthdate: 1805
+    deathdate: 1891
+    gutenberg_agent_id: '7087'
+    url: http://www.gutenberg.org/2009/agents/7087
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2008-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26211'
+  lccn: '04007653'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art -- Collectors and collecting'
+- !lcsh 'Art patronage'
+- !lcc 'N'
+title: "Histoire des Plus Célèbres Amateurs Étrangers\r\nEspagnols, Anglais, Flamands,\
+  \ Hollandais et Allemands et de leurs relations avec les artistes"
+url: http://www.gutenberg.org/ebooks/26211
